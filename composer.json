@@ -1,0 +1,22 @@
+{
+    "name": "dxs/cep_class",
+    "description": "Busca de cep online",
+    "license": "MIT",
+    "autoload": {
+        "psr-0": {
+            "Search": "src/"
+        },
+        "psr-4": {
+            "Dxs\\CepClass\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Davi Carvalho",
+            "email": "davicarvalho34@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
